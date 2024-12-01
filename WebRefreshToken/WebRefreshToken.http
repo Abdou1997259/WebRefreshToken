@@ -1,0 +1,6 @@
+@WebRefreshToken_HostAddress = http://localhost:5223
+
+GET {{WebRefreshToken_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
